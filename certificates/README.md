@@ -12,12 +12,12 @@ Formações e cursos que acompanham minha transição de educador para desenvolv
 |---|---|---|---|
 | Impressionadores Python | Hashtag Treinamentos | — | Em progresso |
 | Jornada Python (8 h) | Hashtag Treinamentos | 2026 | [PDF](./jornada-python-julho-2026.pdf) |
-| Fundamentos | Hashtag Treinamentos | — | [PDF](./hashtag-fundamentos.pdf) |
-| Git e GitHub | Hashtag Treinamentos | — | [PDF](./hashtag-git-e-github.pdf) |
+| Fundamentos | Hashtag Treinamentos | 2026 | [PDF](./hashtag-fundamentos.pdf) |
+| Git e GitHub | Hashtag Treinamentos | 2026 | [PDF](./hashtag-git-e-github.pdf) |
 | Python — Mundo 1 (40 h) | Curso em Vídeo | 2025 | [PDF](./python-mundo-1-curso-em-video.pdf) |
 | Python — Mundo 2 (40 h) | Curso em Vídeo | 2025 | [PDF](./python-mundo-2-curso-em-video.pdf) |
-| Python — Mundo 3 (40 h) | Curso em Vídeo | — | Certificado a imprimir |
-| Python — Mundo 4 (40 h) | Curso em Vídeo | — | Em progresso |
+| Python — Mundo 3 (40 h) | Curso em Vídeo | 2026 | Certificado a imprimir |
+| Python — Mundo 4 (40 h) | Curso em Vídeo | 2026 | Em progresso |
 | Computação: Fundamentos (25 h) | IFRS | 2025 | [PDF](./computacao-fundamentos.pdf) |
 | Lógica de Programação | Trybe | 2025 | [PDF](./logica-de-programacao.pdf) |
 
