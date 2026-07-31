@@ -44,10 +44,10 @@ Hoje estudo **Python** com foco em automação para professores e gestores: meno
 
 <p align="center">
   <a href="https://github.com/GustaFranz/school-data-pipeline">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=GustaFranz&repo=school-data-pipeline&theme=dark&hide_border=true&bg_color=0c2940&title_color=d5ad62&icon_color=117a75&text_color=e8eef2" alt="school-data-pipeline" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=GustaFranz&repo=school-data-pipeline&theme=dark&hide_border=true&bg_color=0c2940&title_color=d5ad62&icon_color=117a75&text_color=e8eef2&description_lines_count=2" alt="school-data-pipeline" />
   </a>
   <a href="https://github.com/GustaFranz/python_exercises">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=GustaFranz&repo=python_exercises&theme=dark&hide_border=true&bg_color=0c2940&title_color=d5ad62&icon_color=117a75&text_color=e8eef2" alt="python_exercises" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=GustaFranz&repo=python_exercises&theme=dark&hide_border=true&bg_color=0c2940&title_color=d5ad62&icon_color=117a75&text_color=e8eef2&description_lines_count=2" alt="python_exercises" />
   </a>
 </p>
 
