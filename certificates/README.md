@@ -2,7 +2,7 @@
 
 Formações e cursos que acompanham minha transição de educador para desenvolvimento Python aplicado à educação.
 
-> Certificados organizam o estudo; a prova principal do que construo está nos repositórios [school-data-pipeline](https://github.com/GustaFranz/school-data-pipeline), [easyansi](https://github.com/GustaFranz/easyansi) e [python_exercises](https://github.com/GustaFranz/python_exercises).
+> Certificados organizam o estudo; a prova principal do que construo está nos repositórios [school-data-pipeline](https://github.com/GustaFranz/school-data-pipeline) e [python_exercises](https://github.com/GustaFranz/python_exercises).
 
 ---
 

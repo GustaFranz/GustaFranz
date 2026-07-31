@@ -40,19 +40,12 @@ Hoje estudo **Python** com foco em automação para professores e gestores: meno
 | Projeto | O que é | Por que importa |
 |---|---|---|
 | [**school-data-pipeline**](https://github.com/GustaFranz/school-data-pipeline) | Pipeline educacional: RPA + consolidação de notas + médias + boletins + dashboard | Minha primeira automação completa em Python, inspirada na rotina de coordenação |
-| [**easyansi**](https://github.com/GustaFranz/easyansi) · [PyPI](https://pypi.org/project/py-easyansi/) | Biblioteca leve para colorir o terminal (`//color/` em strings) | Ferramenta publicada, zero dependências, pensada como instrução clara de sala |
 | [**python_exercises**](https://github.com/GustaFranz/python_exercises) | Trilhas de exercícios + guias PDF autorais | Portfolio de evolução: do primeiro `print` a pandas e automação |
 
 <p align="center">
   <a href="https://github.com/GustaFranz/school-data-pipeline">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=GustaFranz&repo=school-data-pipeline&theme=dark&hide_border=true&bg_color=0c2940&title_color=d5ad62&icon_color=117a75&text_color=e8eef2" alt="school-data-pipeline" />
   </a>
-  <a href="https://github.com/GustaFranz/easyansi">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=GustaFranz&repo=easyansi&theme=dark&hide_border=true&bg_color=0c2940&title_color=d5ad62&icon_color=117a75&text_color=e8eef2" alt="easyansi" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/GustaFranz/python_exercises">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=GustaFranz&repo=python_exercises&theme=dark&hide_border=true&bg_color=0c2940&title_color=d5ad62&icon_color=117a75&text_color=e8eef2" alt="python_exercises" />
   </a>
